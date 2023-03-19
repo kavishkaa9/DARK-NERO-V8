@@ -14,30 +14,30 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.ANTI_BADWORD = 'true' // true of false
-global.AUTO_REACT = 'false' // true of false
+global.ANTI_BADWORD = 'false' // true of false
+global.AUTO_REACT = 'true' // true of false
 global.INBOX_BLOCK_MSG ='BLOCK !!!'
 global.INBOX_BLOCK = 'off' //inbox block
-global.alivemsg = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ʙᴏᴛ'
-global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
-global.owner = ['0786802371'] //ur owner number
-global.ownername = "kaveesha" //ur owner name
-global.ytname = "YT: Dark" //ur yt chanel name
-global.socialm = "GitHub: Dark" //ur github or insta name
+global.alivemsg = 'вℓα¢к__т4υ__ут'
+global.alivepic = 'https://i.ibb.co/RvRzmFC/20230129-075211.jpg '
+global.owner = ['0784153052'] //ur owner number
+global.ownername = "dexter" //ur owner name
+global.ytname = "YT: black_t4u" //ur yt chanel name
+global.socialm = "GitHub: black t4u" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
 global.session = " " //session Id
-global.ownernomer = "94786802371" //ur number
+global.ownernomer = "94784153052" //ur number
 global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
-global.premium = ['94786802371'] //ur premium number
-global.botname = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
-global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.premium = ['94784153052'] //ur premium number
+global.botname = 'вℓα¢к__т4υ__ут' //ur bot name
+global.linkz = "https://www.facebook.com/profile.php?id=100078175149491" //your theme url which will be displayed on whatsapp
+global.websitex = "https://www.youtube.com/@T4u220" //ur website to be displayed
 global.botscript = 'https://www.darknero.ga/' //script link
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Dark Nero By" //ur sticker watermark packname
-global.author = "Dark Nero Creating By Cyber Yakuza Team" //ur sticker watermark author
+global.themeemoji = "✍️" //ur theme emoji
+global.packname = "вℓα¢к__т4υ__ут" //ur sticker watermark packname
+global.author = "whatsapp bot Creating By вℓα¢к__т4υ__ут" //ur sticker watermark author
 global.wm = "Dark Bot Inc." //ur watermark
 
 // Other
